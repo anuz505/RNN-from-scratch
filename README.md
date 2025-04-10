@@ -2,7 +2,7 @@
 
 This repository contains a simple yet powerful implementation of a Recurrent Neural Network (RNN) built from scratch using **NumPy**, without any deep learning libraries like TensorFlow or PyTorch. The main goal of this project is to demystify how RNNs work internally by manually coding forward and backward propagation steps.
 
-## 📚 What You'll Learn
+## 📚 What I Learned
 
 - How sequential data is processed using RNNs
 - Implementation of forward propagation through time
